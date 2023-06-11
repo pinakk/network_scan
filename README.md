@@ -1,2 +1,2 @@
 # network_scan
-Here you will the tools to scan the network devices for vulnerabilities
+We are updating this free tool and it will be available very soon.
